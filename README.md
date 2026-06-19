@@ -30,13 +30,13 @@ A continuación se muestra el flujo principal de la aplicación:
 
 | Splash & Home | Catálogo de Productos | Carrito de Compras |
 | :---: | :---: | :---: |
-| <img width="220"  alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/0386c1db-db92-407a-9fcb-6f2660d8c07e" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 12 PM" src="https://github.com/user-attachments/assets/82478377-8c25-4a6f-bd26-739ddd72a64d" />| <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/b1641edb-0a1c-445b-8dcf-cb56e539254f" />|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (1)" src="https://github.com/user-attachments/assets/73ab29a0-e922-4cfc-9e89-0dc061808adf" />
- |
+| <img src="assets/screenshots/splash.png" width="220" alt="Splash Screen"/> | <img src="assets/screenshots/catalog.png" width="220" alt="Catálogo"/> | <img src="assets/screenshots/cart.png" width="220" alt="Carrito"/> |
 
 | Pasarela de Pagos | Resultado de Transacción | Historial de Compras |
 | :---: | :---: | :---: |
-|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM" src="https://github.com/user-attachments/assets/adea2990-4ae7-48d6-ade4-0825cad03383" />|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM (1)" src="https://github.com/user-attachments/assets/9bcf5182-329c-4b2f-a9c0-f60b00fe7f56" />| <img width="220"  alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/0c0d38e6-2600-4aa6-8195-b4d60178cf7b" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (1)" src="https://github.com/user-attachments/assets/751ac99a-9091-4434-9da9-26fc5b5d5922" />
-|
+| <img src="assets/screenshots/payment.png" width="220" alt="Formulario de Pago"/> | <img src="assets/screenshots/result.png" width="220" alt="Resultado"/> | <img src="assets/screenshots/history.png" width="220" alt="Historial"/> |
+
+*(Nota: Reemplaza las rutas `assets/screenshots/...` con tus imágenes reales o elimina las columnas que no apliquen).*
 
 ## 🛠️ Tech Stack y Arquitectura
 
@@ -115,8 +115,9 @@ Sigue estos pasos para levantar el entorno de desarrollo:
 
 ## 📬 Contacto
 
-**Desarrollador:** [Alexander David Cajamarca]  
-**Email:** [alexandergarcia215@outlook.com]
+**Tech Lead / Desarrollador:** [Tu Nombre o Equipo]  
+**Portafolio:** [Enlace a tu Portafolio / LinkedIn]  
+**Email:** [tu-correo@ejemplo.com]
 
 ---
 *Construido con pasión y Flutter.* 💙
