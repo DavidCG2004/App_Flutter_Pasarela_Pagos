@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Background -->
+  <rect width="1024" height="1024" rx="220" ry="220" fill="#0A0A0A"/>
+
+  <!--
+    Geometric S: two semicircles connected, strictly symmetric.
+    Top semicircle: center (512, 370), radius 148, open on the left  → right-facing C
+    Bottom semicircle: center (512, 654), radius 148, open on the right → left-facing C
+    They share a mid-point at (512, 512) via two short connectors.
+  -->
+
+  <!-- Top half: right-opening arc (center 512,370 r=148) -->
+  <!-- From (512,222) sweeping clockwise 180° to (512,518) via right side -->
+  <path d="
+    M 364 370
+    A 148 148 0 0 1 512 222
+    A 148 148 0 0 1 660 370
+  "
+    fill="none"
+    stroke="white"
+    stroke-width="58"
+    stroke-linecap="round"
+  />
+
+  <!-- Diagonal connector: top bottom-left to bottom top-right -->
+  <line x1="364" y1="370" x2="660" y2="654"
+    stroke="white" stroke-width="58" stroke-linecap="round"/>
+
+  <!-- Bottom half: left-opening arc (center 512,654 r=148) -->
+  <path d="
+    M 364 654
+    A 148 148 0 0 0 512 802
+    A 148 148 0 0 0 660 654
+  "
+    fill="none"
+    stroke="white"
+    stroke-width="58"
+    stroke-linecap="round"
+  />
+</svg>
