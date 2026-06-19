@@ -35,9 +35,7 @@ A continuación se muestra el flujo principal de la aplicación:
 
 | Pasarela de Pagos | Resultado de Transacción | Historial de Compras |
 | :---: | :---: | :---: |
-| <img src="assets/screenshots/payment.png" width="220" alt="Formulario de Pago"/> | <img src="assets/screenshots/result.png" width="220" alt="Resultado"/> | <img src="assets/screenshots/history.png" width="220" alt="Historial"/> |
-
-*(Nota: Reemplaza las rutas `assets/screenshots/...` con tus imágenes reales o elimina las columnas que no apliquen).*
+|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM" src="https://github.com/user-attachments/assets/adea2990-4ae7-48d6-ade4-0825cad03383" />|<img width="220"alt="WhatsApp Image 2026-06-19 at 3 58 14 PM (1)" src="https://github.com/user-attachments/assets/383e7393-ed2c-4a71-9c16-21d72bd83313" />| <img width="220"  alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/0c0d38e6-2600-4aa6-8195-b4d60178cf7b" /><img width="220"alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (1)" src="https://github.com/user-attachments/assets/c87e05a3-15fc-4cea-b6e9-3c3d4f2803dc" />|
 
 ## 🛠️ Tech Stack y Arquitectura
 
