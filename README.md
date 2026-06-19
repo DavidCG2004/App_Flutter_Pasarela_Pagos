@@ -30,8 +30,8 @@ A continuación se muestra el flujo principal de la aplicación:
 
 | Splash & Home | Catálogo de Productos | Carrito de Compras |
 | :---: | :---: | :---: |
-| <img width="220"  alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/0386c1db-db92-407a-9fcb-6f2660d8c07e" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 12 PM" src="https://github.com/user-attachments/assets/82478377-8c25-4a6f-bd26-739ddd72a64d" />| <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/b1641edb-0a1c-445b-8dcf-cb56e539254f" />
-| <img src="assets/screenshots/cart.png" width="220" alt="Carrito"/> |
+| <img width="220"  alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/0386c1db-db92-407a-9fcb-6f2660d8c07e" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 12 PM" src="https://github.com/user-attachments/assets/82478377-8c25-4a6f-bd26-739ddd72a64d" />| <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/b1641edb-0a1c-445b-8dcf-cb56e539254f" />|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (1)" src="https://github.com/user-attachments/assets/73ab29a0-e922-4cfc-9e89-0dc061808adf" />
+ |
 
 | Pasarela de Pagos | Resultado de Transacción | Historial de Compras |
 | :---: | :---: | :---: |
