@@ -30,7 +30,9 @@ A continuación se muestra el flujo principal de la aplicación:
 
 | Splash & Home | Catálogo de Productos | Carrito de Compras |
 | :---: | :---: | :---: |
-| <img src="assets/screenshots/splash.png" width="220" alt="Splash Screen"/> | <img src="assets/screenshots/catalog.png" width="220" alt="Catálogo"/> | <img src="assets/screenshots/cart.png" width="220" alt="Carrito"/> |
+| <img width="220" alt="WhatsApp Image 2026-06-19 at 4 16 28 PM" src="https://github.com/user-attachments/assets/88dd2127-d1d3-46e2-9c6d-8f7824d5f206" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/1c44c912-3423-4f06-8989-bf8242e9fa66" />
+
+ | <img src="assets/screenshots/catalog.png" width="220" alt="Catálogo"/> | <img src="assets/screenshots/cart.png" width="220" alt="Carrito"/> |
 
 | Pasarela de Pagos | Resultado de Transacción | Historial de Compras |
 | :---: | :---: | :---: |
