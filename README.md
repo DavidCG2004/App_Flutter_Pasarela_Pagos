@@ -30,10 +30,8 @@ A continuación se muestra el flujo principal de la aplicación:
 
 | Splash & Home | Catálogo de Productos | Carrito de Compras |
 | :---: | :---: | :---: |
-| <img width="220" alt="WhatsApp Image 2026-06-19 at 4 16 28 PM" src="https://github.com/user-attachments/assets/88dd2127-d1d3-46e2-9c6d-8f7824d5f206" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/1c44c912-3423-4f06-8989-bf8242e9fa66" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 12 PM" src="https://github.com/user-attachments/assets/e441cdc4-10f6-427a-97cd-4a354d8968e8" />
-
-
- | <img src="assets/screenshots/catalog.png" width="220" alt="Catálogo"/> | <img src="assets/screenshots/cart.png" width="220" alt="Carrito"/> |
+| <img width="220" alt="WhatsApp Image 2026-06-19 at 4 16 28 PM" src="https://github.com/user-attachments/assets/88dd2127-d1d3-46e2-9c6d-8f7824d5f206" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM" src="https://github.com/user-attachments/assets/1c44c912-3423-4f06-8989-bf8242e9fa66" /> <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 12 PM" src="https://github.com/user-attachments/assets/e441cdc4-10f6-427a-97cd-4a354d8968e8" />| <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (1)" src="https://github.com/user-attachments/assets/b9ddbcf8-832d-4d1d-a43f-25bc1b0deb92" />
+ | <img src="assets/screenshots/cart.png" width="220" alt="Carrito"/> |
 
 | Pasarela de Pagos | Resultado de Transacción | Historial de Compras |
 | :---: | :---: | :---: |
