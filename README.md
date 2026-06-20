@@ -113,9 +113,8 @@ Sigue estos pasos para levantar el entorno de desarrollo:
 
 ## 📬 Contacto
 
-**Tech Lead / Desarrollador:** [Tu Nombre o Equipo]  
-**Portafolio:** [Enlace a tu Portafolio / LinkedIn]  
-**Email:** [tu-correo@ejemplo.com]
+**Desarrollador:** [Alexander David Cajamarca]  
+**Email:** [alexandergarcia215@outlook.com]
 
 ---
 *Construido con pasión y Flutter.* 💙
