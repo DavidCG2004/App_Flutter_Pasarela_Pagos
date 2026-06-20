@@ -34,7 +34,7 @@ A continuación se muestra el flujo principal de la aplicación:
 
 | Pasarela de Pagos | Resultado de Transacción | Historial de Compras |
 | :---: | :---: | :---: |
-|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM (1)" src="https://github.com/user-attachments/assets/7b8c47ce-e3bf-4603-bdf3-13ddc785b195" />| <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM" src="https://github.com/user-attachments/assets/6cce217e-e237-4430-8b1e-8da0a2eb4842" />|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (4)" src="https://github.com/user-attachments/assets/222bf4d0-f5cb-493e-b261-0d243be8ea42" /> <img width="220" height="1600" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (3)" src="https://github.com/user-attachments/assets/a581df6d-336a-4ff3-bc8c-09dd0d49f0a3" />|
+|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM (1)" src="https://github.com/user-attachments/assets/7b8c47ce-e3bf-4603-bdf3-13ddc785b195" />| <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM" src="https://github.com/user-attachments/assets/6cce217e-e237-4430-8b1e-8da0a2eb4842" />|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (4)" src="https://github.com/user-attachments/assets/222bf4d0-f5cb-493e-b261-0d243be8ea42" />  <img width="220" height="1600" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (3)" src="https://github.com/user-attachments/assets/a581df6d-336a-4ff3-bc8c-09dd0d49f0a3" />|
 
 *(Nota: Reemplaza las rutas `assets/screenshots/...` con tus imágenes reales o elimina las columnas que no apliquen).*
 
