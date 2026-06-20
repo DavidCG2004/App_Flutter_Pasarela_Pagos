@@ -1,4 +1,4 @@
-# 🚀 Pasarela V2 
+<img width="738" height="1600" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (4)" src="https://github.com/user-attachments/assets/2e1791c9-51a7-4c9b-8929-759c292fe55a" /># 🚀 Pasarela V2 
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.11+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -34,7 +34,7 @@ A continuación se muestra el flujo principal de la aplicación:
 
 | Pasarela de Pagos | Resultado de Transacción | Historial de Compras |
 | :---: | :---: | :---: |
-| <img src="assets/screenshots/payment.png" width="220" alt="Formulario de Pago"/> | <img src="assets/screenshots/result.png" width="220" alt="Resultado"/> | <img src="assets/screenshots/history.png" width="220" alt="Historial"/> |
+|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM (1)" src="https://github.com/user-attachments/assets/7b8c47ce-e3bf-4603-bdf3-13ddc785b195" />| <img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 14 PM" src="https://github.com/user-attachments/assets/6cce217e-e237-4430-8b1e-8da0a2eb4842" />|<img width="220" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (4)" src="https://github.com/user-attachments/assets/222bf4d0-f5cb-493e-b261-0d243be8ea42" /> <img width="220" height="1600" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (3)" src="https://github.com/user-attachments/assets/a581df6d-336a-4ff3-bc8c-09dd0d49f0a3" />|
 
 *(Nota: Reemplaza las rutas `assets/screenshots/...` con tus imágenes reales o elimina las columnas que no apliquen).*
 
