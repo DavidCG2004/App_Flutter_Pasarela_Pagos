@@ -1,4 +1,4 @@
-<img width="738" height="1600" alt="WhatsApp Image 2026-06-19 at 3 58 13 PM (4)" src="https://github.com/user-attachments/assets/2e1791c9-51a7-4c9b-8929-759c292fe55a" /># 🚀 Pasarela V2 
+# 🚀 Pasarela V2 
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.11+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)
